@@ -1,0 +1,5 @@
+when comparing on both sides user intent is matching with all the ratings like l1r1,l2r2,l3r3,l4r4 except l5r5.SO left side is slightly better than right side.
+
+when comparing on both sides left side is slightly better than right side because useful information is there on left side.
+when comparing on both sides right side is slightly better than left side because useful information is there on right side.
+canva designs
